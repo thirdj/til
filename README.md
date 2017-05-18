@@ -1,4 +1,4 @@
 # til
 Today I Learned
 
-- [test commit](170518/README.md)
+- [test commit](170518/test.js)
