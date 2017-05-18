@@ -1,4 +1,4 @@
 # til
 Today I Learned
 
-- [test commit](170518/)
+- [README.me Link](170518/)
