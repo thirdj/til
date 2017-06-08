@@ -5,4 +5,4 @@ Today I Learned
 - [docker mariadb-utf8](170522)
 - [spreadsheet cell string merge](170523)
 - [webStorm git keyboard-shortcuts](170525)
-- [React.js setState prevState](150608)
+- [React.js setState prevState](170608)
